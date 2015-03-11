@@ -1,5 +1,5 @@
 gem_version = File.read("VERSION").strip
-gem_name = "best_errors"
+gem_name = "favorite_things"
 
 task :default => :build
 

@@ -1,8 +1,6 @@
-# Best_Errors
+# Favorite_Things
 
-## [better_errors](https://github.com/charliesome/better_errors) and [binding_of_caller](https://github.com/banister/binding_of_caller): together at last!
-
-Tired of wearing your fingers down to a nubbin from requiring **both** `better_errors` and `binding_of_caller` in the Gemfile for **every** Rails project?
+Tired of wearing your fingers down to a nubbin from requiring all of your favorite dev things in the Gemfile for **every** Rails project?
 
 Then this gem is for you!
 
@@ -11,17 +9,25 @@ Then this gem is for you!
 Put *this* in your Gemfile and bundle it:
 
 ```ruby
-  gem 'best_errors'
+  gem 'favorite_things'
 ```
 
-# What is [better_errors](https://github.com/charliesome/better_errors)?
+# What is [pry-rails](https://github.com/rweng/pry-rails)?
 
-It's a [beautiful](https://i.imgur.com/6zBGAAb.png) replacement for Rails' default error page.
+It's an amazing replacement for bland 'ol IRB.
 
-# What is [binding_of_caller](https://github.com/banister/binding_of_caller)?
+# What is [awesome_print](https://github.com/michaeldv/awesome_print)?
 
-It's a gem that lets `better_errors` have a REPL on the errors page!
+It's a pretty printer that makes object your print in your repl look nice.
 
-# O SHI!! THAT'S A WINNING COMBINATION!
+# What is [quiet_assets](https://github.com/evrone/quiet_assets)?
+
+It's log silencer that saves you from having to look at the same 20 get requests for your assets on each page load in development.
+
+# What is [did_you_mean](https://github.com/yuki24/did_you_mean)?
+
+It's a smart tool that gives you spelling suggestions when you get undefined method errors.
+
+# HOT DIGGITY!! THAT'S A WINNING COMBINATION!
 
 I KNOW!
