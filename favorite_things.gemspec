@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Chris Gahan", "Charlie Somerville", "Josh Teneycke"]
   s.email       = ["chris@ill-logic.com", "charlie@charliesomerville.com", "josh.teneycke@gmail.com"]
 
-  s.description = "better_errors and binding_of_caller: together at last!"
+  s.description = "Rain drops on roses, whiskers on kittens, silenced logs, and repl pretty printin's!"
   s.summary     = "Tired of your fingers being worn down to a nubbin from having to require all of your favorite dev tools in your Gemfile for every Rails project? Then this gem is for you!"
 
   s.homepage    = "https://github.com/jteneycke/favorite_things"
