@@ -24,4 +24,5 @@ Gem::Specification.new do |s|
   s.add_dependency "awesome_print"
   s.add_dependency "quiet_assets"
   s.add_dependency "did_you_mean"
+  s.add_dependency "table_print"
 end
